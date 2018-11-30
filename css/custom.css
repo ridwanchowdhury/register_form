@@ -1,0 +1,33 @@
+*{
+	margin: 0;
+	padding: 0;
+	margin-top: 5px;
+	text-decoration: none;
+	/*! font-size: 23px; */
+	/*! font-size: 20px; */
+}
+body{
+
+	background-image: url(../images/walk.jpg);
+	background-repeat: no-repeat;
+	/*! background: cover; */
+	background-size: cover;
+}
+.box1{color: #fff;width: 40%;float: left;/*! margin: -11px; */margin: 60px;margin-right: 0;/*! margin-bottom: ; */}
+.upperpart{text-transform: uppercase;font-size: 60px;/*! margin: 88px; */margin-bottom: 25px;}
+.secondpart{font-size: 25px;margin-bottom: 10px;}
+.thirdpart{font-size: 20px;/*! margin-top: 20px; *//*! margin-bottom: 20px; */}
+.thirdpart p{}
+.thirdpart p i {}
+.thirdpart p i {}
+.forthpart{display: block;background: #967c6f;/*! margin: 20px; */padding: 20px;margin-right: 380px;text-align: center;border: blue;border-radius: 46px;/*! text-decoration: none; */font-size: 27px;font-style: italic;}
+.box2{/*! background: #fff; *//*! background-color: #fff; */display: block;background: #ff6868;width: 30%;float: left;margin-top: 76px;margin-left: 90px;color: #fff;padding-bottom: 20px;margin-left: 191px;border-radius: 4px;}
+.text1{text-align: center;font-size: 30px;margin-bottom: 13px;}
+.text2{font-size: 22px;margin-left: 22px;}
+.box3{}
+.box3 form{/*! width: 100%; */}
+
+.box3 form input{width: 92%;margin-left: 20px;height: 44px;margin-bottom: 11px;}
+
+.signup{border-radius: 5px;}
+.signup:hover{}
